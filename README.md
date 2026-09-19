@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Developer;IoT+%7C+Arduino+%7C+ESP8266+Enthusiast;AI-Integrated+Hardware+Solutions)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=raghul-v&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/raghul-v)
+[![Profile Views](https://komarev.com/ghpvc/?username=Raghul-XD&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Raghul-XD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghul%20V-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghul-v-2b81b9305)
 [![Email](https://img.shields.io/badge/Email-rv2442005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rv2442005@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Krishnagiri%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Krishnagiri,Tamil+Nadu)
@@ -93,11 +93,11 @@ class RaghulV:
 
 <div align="center">
 
-<a href="https://github.com/raghul-v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghul-v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Raghul-XD">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raghul-XD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/raghul-v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghul-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Raghul-XD">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghul-XD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -108,7 +108,7 @@ class RaghulV:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raghul-v&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raghul-XD&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -118,7 +118,7 @@ class RaghulV:
 
 <div align="center">
 
-[![Raghul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raghul-v&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/raghul-v)
+[![Raghul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raghul-XD&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Raghul-XD)
 
 </div>
 
@@ -128,7 +128,7 @@ class RaghulV:
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raghul-v&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/raghul-v)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raghul-XD&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Raghul-XD)
 
 </div>
 
@@ -168,8 +168,8 @@ class RaghulV:
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [🔋 AI-Based EV Battery Management System](https://github.com/raghul-v) | Arduino Uno, ESP8266, Python, OpenCV, dlib, ThingSpeak, Blynk | 3S Li-ion BMS with real-time IoT monitoring, relay-based fault protection, PWM thermal control, and AI driver drowsiness detection over USB serial |
-| [🌾 IoT Smart Illegal Fencing & Pest Control](https://github.com/raghul-v) | Arduino, IoT Sensors, Wi-Fi Communication | Agricultural field breach detection and pest monitoring system; **selected at Agrisakthi Hackathon** |
+| [🔋 AI-Based EV Battery Management System](https://github.com/Raghul-XD) | Arduino Uno, ESP8266, Python, OpenCV, dlib, ThingSpeak, Blynk | 3S Li-ion BMS with real-time IoT monitoring, relay-based fault protection, PWM thermal control, and AI driver drowsiness detection over USB serial |
+| [🌾 IoT Smart Illegal Fencing & Pest Control](https://github.com/Raghul-XD) | Arduino, IoT Sensors, Wi-Fi Communication | Agricultural field breach detection and pest monitoring system; **selected at Agrisakthi Hackathon** |
 
 </div>
 
@@ -223,19 +223,3 @@ class RaghulV:
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
-## Hi there 👋
-
-<!--
-**Raghul-XD/Raghul-XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
